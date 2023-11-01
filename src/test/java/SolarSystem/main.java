@@ -7,6 +7,14 @@ public class main {
         solarsys.Moon="2";
         solarsys.Planets="2";
         solarsys.Stars="10";
+
+
+        //********************Feature Sun******************
+
+        FeatrureSun Sun = new FeatrureSun();
+        Sun.name="panther";
+        Sun.color="black";
+        Sun.temp="122323123kelvin";
         
     }
 }
