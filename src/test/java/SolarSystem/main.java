@@ -16,10 +16,20 @@ public class main {
         Sun.color="black";
         Sun.temp="122323123kelvin";
 
+
         Planet2 xaros = new Planet2();
         xaros.name = "Xaros";
         xaros.color ="BLACK";
         xaros.temp = "32932323k";
         
+
+        //----------------------Feature Planet1-------------------------
+
+        Planet1 plato = new Planet1();
+        plato.color="green";
+        plato.name= "abrevsav";
+        plato.temp= "299900k";
+        plato.radius ="3985895km";
+
     }
 }
